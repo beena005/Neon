@@ -1,34 +1,32 @@
-# [Project Name] 🎯
+# She wellness 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Neon
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Beena Antony - MBCCET,Peermade
+- Member 2: Divya Antony - MBCCET,Peermade
+- Member 3: Lisa Rachel Oommen - MBCCET,Peermade
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://neon-48n1.vercel.app/
 
 ### Project Description
-[2-3 lines about what your project does]
+We provide many links to differnt sources and a period tracker.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
-
+Need to search for things related to womens.
 ### The Solution
-[How are you solving it? Keep it fun!]
-
+To provide resourses for womens regarding related things.
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- html and css javascript
+-  html and css javascript
+- javascript
+-vs code
 
 For Hardware:
 - [List main components]
@@ -47,16 +45,14 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+https://drive.google.com/drive/folders/1miAGmGDSTDL0uV5NZQy0jchwHOrycb9U?usp=sharing
+
 
 ![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
+https://drive.google.com/drive/folders/1miAGmGDSTDL0uV5NZQy0jchwHOrycb9U?usp=sharing
 ![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
-# Diagrams
+# Diagramshttps://drive.google.com/drive/folders/1miAGmGDSTDL0uV5NZQy0jchwHOrycb9U?usp=sharing
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
@@ -84,16 +80,16 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+https://drive.google.com/drive/folders/1miAGmGDSTDL0uV5NZQy0jchwHOrycb9U?usp=sharing
 *Explain what the video demonstrates*
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+-Beena Antony-coded
+Divya Antony-ui/ux
+Lisa Rachel Oommen-debuger
 
 ---
 Made with ❤️ at TinkerHub
